@@ -2,3 +2,6 @@ body {background-color: #118ab2;
 background-image: linear-gradient(319deg, #118ab2 0%, #06d6a0 37%, #ffd166 100%);
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+head {background-color: #118ab2;
+    background-image: linear-gradient(319deg, #118ab2 0%, #06d6a0 37%, #ffd166 100%);
+    }
